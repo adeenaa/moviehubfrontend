@@ -62,4 +62,3 @@ filterMovies(genre:any){
 
 
 }
-
